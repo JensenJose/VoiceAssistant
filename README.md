@@ -1,1 +1,1 @@
-# VoiceAssistant
+This repository contains a Python script for a voice assistant that utilizes the OpenAI GPT-3 language model. The voice assistant is capable of converting speech to text using the SpeechRecognition library and generating responses to user queries using the GPT-3 API.
